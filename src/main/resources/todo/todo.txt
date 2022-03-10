@@ -1,0 +1,11 @@
+1. save users to DB
+2. encode password before saving
+ . list products from db into index.jsp -OK
+ . how to map imagePath into Image - MultiPartin html? <img src -OK
+5. make product page, read for users, CRUD for admin
+6. how to read locales from strings.
+7. how to read locale from browser settings
+7. how to to set locales in jsp files
+8. how to use JSessionID (logged in) and set life-time to that cookie
+9. fix 2-nd time call doGet in DispatcherServlet - connection.closed is commented temporarily
+10. run Tests for every object

@@ -1,0 +1,6 @@
+1. admin page - login, logout, crud products, map path to images, crud users, crud orders
+2. users page - urls to register and login, logout, make orders
+3. guest page - urls to register and login, logout, make orders
+4. user repository - crud -admin, cr - user
+5. product repository - crud, also url-> image
+6. order repository - crud - admin, cr - user
